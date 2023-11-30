@@ -89,6 +89,7 @@ int main() {
 #Imagen 
 ![Imagen](https://media.istockphoto.com/id/1406932980/photo/santa-claus-in-eyeglasses-is-looking-at-camera-and-smiling-on-gray-background.jpg?b=1&s=170667a&w=0&k=20&c=0Xto80P2gjgSEkA8XhhZSGbT2G7a0sXBQlsuhF93Wds=)
 
+![Pizza](https://www.pizzaiolo.mx/img/blog/una-pizza-con-queso-derretido--Pizza-blog.jpg)
 #Planeacion de estudiar c++
 | Fecha | Description |
 | ----- | ------ |
